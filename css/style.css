@@ -266,14 +266,14 @@ code {
 .logo {
   display: block;
   padding: 10px 0;
-  width: 360px;
-  height: 100px;
+  width: 350px;
+  height: 95px;
   background-image: url("images/HFFT_Logo_big.png");
   background-position: 0px 10px;
   background-repeat: no-repeat;
-  -webkit-background-size: 360px 100px;
-  -moz-background-size: 360px 100px;
-  background-size: 360px 100px;
+  -webkit-background-size: 350px 95px;
+  -moz-background-size: 350px 95px;
+  background-size: 350px 95px;
 }
 .main-body {
   margin-top: -60px;
@@ -370,7 +370,7 @@ code {
 #header-title .subtitle {
   font-size: 16px;
   font-style: italic;
-  line-height: 110px;
+  line-height: 105px;
   color: rgba(255,255,255,0.7);
   text-shadow: 0 1px rgba(0,0,0,0.2);
 }
@@ -1617,11 +1617,11 @@ a.article-title:hover {
   line-height: 22px;
 }
 #footer .logo {
-  width: 288px;
-  height: 80px;
-  -webkit-background-size: 288px 80px;
-  -moz-background-size: 288px 80px;
-  background-size: 288px 80px;
+  width: 280px;
+  height: 76px;
+  -webkit-background-size: 280px 76px;
+  -moz-background-size: 280px 76px;
+  background-size: 280px 76px;
 }
 i.icon {
   display: inline-block;
